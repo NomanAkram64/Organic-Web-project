@@ -1,0 +1,47 @@
+2022-12-04T17:17:34+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_638cd62e223d0httplocalhostorganicwp-admin","smb_name":"PROD","redirect_url":"http:\/\/localhost\/organic\/wp-admin\/"}
+
+2022-12-04T17:17:34+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 6: Could not resolve host: ads.tiktok.com
+
+2022-12-04T17:17:34+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 6: Could not resolve host: ads.tiktok.com
+
+2022-12-04T17:17:34+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 6: Could not resolve host: ads.tiktok.com
+
+2022-12-04T17:17:34+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 6: Could not resolve host: ads.tiktok.com
+
+2022-12-04T17:20:45+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2022-12-04T17:21:17+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2022-12-04T17:22:11+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2022-12-04T17:26:58+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2022-12-04T17:56:25+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2022-12-04T17:56:49+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2022-12-04T18:12:10+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2022-12-04T18:12:10+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2022-12-04T18:13:14+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2022-12-04T18:13:47+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2022-12-04T18:13:47+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2022-12-04T18:14:22+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2022-12-04T18:14:22+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2022-12-04T18:15:00+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2022-12-04T18:15:16+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2022-12-04T18:15:16+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2022-12-04T18:16:34+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2022-12-04T18:16:52+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2022-12-04T18:16:52+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2022-12-04T18:17:55+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2022-12-04T18:18:09+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2022-12-04T18:18:09+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2022-12-04T18:20:28+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2022-12-04T18:20:28+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2022-12-04T18:23:38+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2022-12-04T18:23:56+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2022-12-04T18:23:56+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"

@@ -1,0 +1,10 @@
+2022-12-06T06:24:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\organic\wp-includes\class-wp-theme.php on line 1248
+
+2022-12-06T06:25:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\organic\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php on line 237
+
+2022-12-06T06:25:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\organic\wp-includes\class-wp-theme.php on line 1248
+
+2022-12-06T06:25:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\organic\wp-content\plugins\elementor\includes\widgets\video.php on line 6
+
+2022-12-06T06:25:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\organic\wp-content\plugins\premium-addons-for-elementor\includes\pa-display-conditions\pa-controls-handler.php on line 184
+
